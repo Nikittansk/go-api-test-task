@@ -1,0 +1,9 @@
+{
+    "port": ":8080",
+    "endpoint": "/go-api-test-task",
+    "host": "go-db",
+    "user": "postgres",
+    "password": "postgres",
+    "schema": "go-api-test-task",
+    "max_connections": 100
+}
